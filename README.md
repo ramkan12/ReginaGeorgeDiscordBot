@@ -1,5 +1,11 @@
 # Regina George Discord Bot
 
+<div align="center">
+  <img src="assets/regina-george.gif" alt="Regina George" width="500"/>
+
+  ### *On Wednesdays, we wear pink* 💅
+</div>
+
 A Discord bot that channels the iconic Regina George from Mean Girls. Get ready for sass, attitude, and iconic one-liners straight from the queen bee herself.
 
 ## Features
@@ -92,12 +98,13 @@ Bot: Did you say Burn Book? Don't worry, your secrets are totally safe with me..
 
 ```
 regina-george-bot/
-├── main.py              # Bot initialization and event handlers
-├── responses.py         # Regina George response logic
-├── requirements.txt     # Python dependencies
-├── .env                # Environment variables (create this)
-├── .gitignore          # Git ignore rules
-└── README.md           # This file
+├── assets/             # Images and media files
+├── main.py             # Bot initialization and event handlers
+├── responses.py        # Regina George response logic
+├── requirements.txt    # Python dependencies
+├── .env               # Environment variables (create this)
+├── .gitignore         # Git ignore rules
+└── README.md          # This file
 ```
 
 ## Configuration
