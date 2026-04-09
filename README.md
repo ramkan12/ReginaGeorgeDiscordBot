@@ -20,7 +20,7 @@ A Discord bot that channels the iconic Regina George from Mean Girls. Get ready 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ramkan12/ReginaGeorgeDiscordBot.git>
    cd "regina george bot"
    ```
 
