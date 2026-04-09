@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/regina-george.gif" alt="Regina George" width="500"/>
 
-  ### *On Wednesdays, we wear pink* 💅
+  ### *Stop trying to make fetch happen!* 💅
 </div>
 
 A Discord bot that channels the iconic Regina George from Mean Girls. Get ready for sass, attitude, and iconic one-liners straight from the queen bee herself.
